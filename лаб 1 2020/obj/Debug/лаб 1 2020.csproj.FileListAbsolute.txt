@@ -1,0 +1,90 @@
+C:\Users\User\source\repos\лаб 1 2020\лаб 1 2020\bin\Debug\лаб 1 2020.exe.config
+C:\Users\User\source\repos\лаб 1 2020\лаб 1 2020\bin\Debug\лаб 1 2020.exe
+C:\Users\User\source\repos\лаб 1 2020\лаб 1 2020\bin\Debug\лаб 1 2020.pdb
+C:\Users\User\source\repos\лаб 1 2020\лаб 1 2020\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\source\repos\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.csprojAssemblyReference.cache
+C:\Users\User\source\repos\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.Form1.resources
+C:\Users\User\source\repos\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.Properties.Resources.resources
+C:\Users\User\source\repos\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.csproj.GenerateResource.cache
+C:\Users\User\source\repos\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.csproj.CopyComplete
+C:\Users\User\source\repos\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.exe
+C:\Users\User\source\repos\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.pdb
+C:\Users\User\source\repos\лаб 1 2020\лаб 1 2020\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\лаб 1 2020\лаб 1 2020\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\лаб 1 2020\лаб 1 2020\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\User\source\repos\лаб 1 2020\лаб 1 2020\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\лаб 1 2020\лаб 1 2020\bin\Debug\EntityFramework.SqlServer.xml
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\bin\Debug\лаб 1 2020.exe.config
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\bin\Debug\лаб 1 2020.exe
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\bin\Debug\лаб 1 2020.pdb
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\bin\Debug\EntityFramework.dll
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\bin\Debug\EntityFramework.SqlServer.dll
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\bin\Debug\EntityFramework.xml
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\bin\Debug\EntityFramework.SqlServer.xml
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.csprojAssemblyReference.cache
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.Form1.resources
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.Properties.Resources.resources
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.csproj.GenerateResource.cache
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.csproj.CoreCompileInputs.cache
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.csproj.CopyComplete
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.exe
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.pdb
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.syshnoste.resources
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.film.resources
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.rezhisser.resources
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.strana.resources
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.dannie.resources
+D:\Загрузки\lab_1_2020\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.user_lists.resources
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\bin\Debug\лаб 1 2020.exe.config
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\bin\Debug\лаб 1 2020.exe
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\bin\Debug\лаб 1 2020.pdb
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\bin\Debug\EntityFramework.dll
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\bin\Debug\EntityFramework.SqlServer.dll
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\bin\Debug\EntityFramework.xml
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\bin\Debug\EntityFramework.SqlServer.xml
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.csprojAssemblyReference.cache
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.dannie.resources
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.film.resources
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.Form1.resources
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.Properties.Resources.resources
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.rezhisser.resources
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.strana.resources
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.syshnoste.resources
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.user_lists.resources
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.csproj.GenerateResource.cache
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.csproj.CoreCompileInputs.cache
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.csproj.CopyComplete
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.exe
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.pdb
+D:\Загрузки\лаб 3\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.role.resources
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\bin\Debug\лаб 1 2020.exe.config
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\bin\Debug\лаб 1 2020.exe
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\bin\Debug\лаб 1 2020.pdb
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\bin\Debug\EntityFramework.dll
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\bin\Debug\EntityFramework.SqlServer.dll
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\bin\Debug\EntityFramework.xml
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\bin\Debug\EntityFramework.SqlServer.xml
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.csprojAssemblyReference.cache
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.dannie.resources
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.film.resources
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.Form1.resources
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.Properties.Resources.resources
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.rezhisser.resources
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.role.resources
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.strana.resources
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.syshnoste.resources
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\obj\Debug\лаб_1_2020.user_lists.resources
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.csproj.GenerateResource.cache
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.csproj.CoreCompileInputs.cache
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.csproj.CopyComplete
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.exe
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\obj\Debug\лаб 1 2020.pdb
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\bin\Debug\Newtonsoft.Json.dll
+F:\Users\MrTokin\Desktop\лаб 1 2020\лаб 1 2020\bin\Debug\Newtonsoft.Json.xml
